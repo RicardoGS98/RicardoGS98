@@ -25,5 +25,5 @@ Most of my work lives in private repositories under employer NDA, which is what 
 
 #### Reach me
 
-- **LinkedIn** &nbsp;·&nbsp; [ricardo-garcia](https://www.linkedin.com/in/ricardo-garcia-b9037b185/)
+- **LinkedIn** &nbsp;·&nbsp; [ricardo-garcia](https://www.linkedin.com/in/ricardo-garcia-saez/)
 - **Email** &nbsp;·&nbsp; rgsaez98@gmail.com
