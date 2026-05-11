@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Ricardo 👋
 
-<!--
-**RicardoGS98/RicardoGS98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Developer based in Porto, Portugal.
 
-Here are some ideas to get you started:
+Currently building data-intensive B2B applications with **.NET 8 + Angular + Azure** at a Spanish logistics SaaS startup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### What I work with daily
+
+- **Backend** &nbsp;·&nbsp; C# / .NET 8, ASP.NET Core, EF Core, OData
+- **Frontend** &nbsp;·&nbsp; Angular 20+, TypeScript, RxJS
+- **Data** &nbsp;·&nbsp; Azure SQL, T-SQL (views, query optimization), PostgreSQL
+- **Cloud** &nbsp;·&nbsp; Azure (SQL Database, Functions, Blob Storage, Service Bus)
+
+#### Previously
+
+Built large-scale web data extraction systems in **Python** (Scrapy, Pandas) — pipelines processing tens of millions of records, geospatial APIs serving real-time map dashboards.
+
+---
+
+#### A note on this profile
+
+Most of my work lives in private repositories under employer NDA, which is what the contribution graph reflects. Public side projects are in the pipeline.
+
+#### Reach me
+
+- **LinkedIn** &nbsp;·&nbsp; [ricardo-garcia](https://www.linkedin.com/in/ricardo-garcia-b9037b185/)
+- **Email** &nbsp;·&nbsp; rgsaez98@gmail.com
