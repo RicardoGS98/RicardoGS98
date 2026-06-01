@@ -2,7 +2,7 @@
 
 Full-Stack Software Developer based in Porto, Portugal.
 
-Currently building data-intensive B2B applications with **.NET 8 + Angular + Azure** at a Spanish logistics SaaS startup. Daily user of AI-assisted development with my own agent / context workflows on top of Cursor and Claude Code.
+Currently building data-intensive B2B applications with **.NET 8 + Angular + Azure** at a Spanish logistics SaaS startup. Daily user of AI-assisted development with my own agent / context workflows on top of Claude Code.
 
 ---
 
