@@ -12,7 +12,7 @@ Currently building data-intensive B2B applications with **.NET 8 + Angular + Azu
 - **Frontend** &nbsp;·&nbsp; Angular 20+, TypeScript, RxJS
 - **Data** &nbsp;·&nbsp; Azure SQL, T-SQL (views, query optimization), PostgreSQL
 - **Cloud & infra** &nbsp;·&nbsp; Azure (SQL Database, Functions, Blob Storage, Service Bus), Docker, Redis
-- **AI tooling** &nbsp;·&nbsp; Cursor, Claude Code, Gemini API integration, markdown-based agent prompts with scoped context files
+- **AI tooling** &nbsp;·&nbsp; Claude Code, Gemini API integration, markdown-based agent prompts with scoped context files
 
 #### How I use AI in the SDLC
 
